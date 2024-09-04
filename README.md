@@ -40,6 +40,10 @@
 
 ###
 
+<h2 align="left">Profile views</h2>
+
+###
+
 <div align="left">
   <img src="https://profile-counter.glitch.me/pablohenrr/count.svg?"  />
 </div>
