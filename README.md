@@ -1,5 +1,3 @@
-##
-
 <h2 align="left">Stats</h2>
 
 ###
