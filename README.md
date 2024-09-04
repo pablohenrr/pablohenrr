@@ -40,6 +40,6 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/pablohenrr/count.svg?"  />
 </div>
