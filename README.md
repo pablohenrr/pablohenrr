@@ -35,21 +35,11 @@
 <h2 align="left">Social Media</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@p4blinz" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-     </a>
-  <a href="mailto:pablo.souzanegocios@outlook.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-     </a>
-   <a href="https://www.instagram.com/pablinsouza_" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-      </a>
-  <a href="https://www.twitch.tv/p4blinz" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-     </a>
 </div>
 
 <h2 align="left">Profile views</h2>
