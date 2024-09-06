@@ -52,6 +52,11 @@
 </div>
 
 <div style="display: inline_block">
+  <h2>Scientific Articles</h2>
+  <a href="https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jefferson-savidotti-d5s1f/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+</div>
+
+<div style="display: inline_block">
   <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
   <a href="https://www.youtube.com/@p4blinz" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" target="_blank"></a>
