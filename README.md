@@ -35,9 +35,10 @@
     <img align="center" alt="Numpy logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Azure logo" height="40" width="50" src="https://skillicons.dev/icons?i=azure">
     <img align="center" alt="Aws logo" height="40" width="50" src="https://skillicons.dev/icons?i=aws">
-    <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-    <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="My SQL logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Azure SQL logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    <img align="center" alt="Mongo DB logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="SQL Server logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </div>
 
 <div style="display: inline_block">
