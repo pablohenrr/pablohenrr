@@ -43,7 +43,7 @@
     <img align="center" alt="Open CV logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
     <img align="center" alt="Apache AirFlow logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
     <img align="center" alt="Apache Spark logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-    <img align="center" alt="Azure Databricks" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredatabricks/azuredatabricks-original.svg" />
+    <img align="center" alt="Databricks logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" />
   </div>
 
 <div style="display: inline_block">
