@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Olá+Pessoal+Sejam+Bem-Vindo(a)!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Pessoal+Sejam+Bem-Vindo(a)!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
 
 <h2 align="left">About Me</h2>
 
