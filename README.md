@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-#
-
 <div style="display: inline_block">
   <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
