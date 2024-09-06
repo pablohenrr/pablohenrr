@@ -32,12 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
- ##
 <div style="display: inline_block">
   <h3>Scientific Articles (Artigos Científicos)</h3>
   <a href="https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jefferson-savidotti-d5s1f/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-
-##
 
 <h2 align="left">Social Media</h2>
 
