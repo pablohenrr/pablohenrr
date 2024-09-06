@@ -53,7 +53,7 @@
 
 <div style="display: inline_block">
   <h2>Scientific Articles</h2>
-  <a href="https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jefferson-savidotti-d5s1f/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.dio.me/articles/engenharia-de-prompt-na-saude-em-2024-a-revolucao-tecnologica-que-esta-salvando-vidas" target="_blank"><img alt="-Engenharia de Prompt na Saúde em 2024" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dio/dio-original.svg" target="_blank"></a>
 </div>
 
 <div style="display: inline_block">
