@@ -48,7 +48,7 @@
   <img align="center" alt="-AI900" height="70" width="70" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
   <img align="center" alt="-AZ900" height="70" width="70" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
   <img align="center" alt="-Databricks - Lakehouse" height="75" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112693359" />
-  <img align="center" alt="-Databricks - Lakehouse" height="75" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112784198" />
+  <img align="center" alt="-Databricks - GenAI" height="75" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112784198" />
 </div>
 
 <div style="display: inline_block">
