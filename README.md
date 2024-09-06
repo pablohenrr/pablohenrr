@@ -55,6 +55,11 @@
 </div>
 
 <div style="display: inline_block">
+  <h2>Articles</h2>
+   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7229285205893685248/" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
+</div>
+
+<div style="display: inline_block">
   <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
   <a href="https://www.youtube.com/@p4blinz" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" target="_blank"></a>
