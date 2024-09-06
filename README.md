@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">Olá pessoal! Tenho 21 anos e sempre fui apaixonado por desenvolvimento e dados. Desde criança, quando meu pai me mostrou um robô que ele criou em 2006, comecei a me interessar por como a tecnologia pode transformar o mundo. O que mais me motiva é ver como ela pode ajudar e até salvar vidas. Hoje, estudo Tecnologia da Informação na Univesp e adoro a ideia de dar sentido a dados para buscar apontar possíveis causas e problemas futuros e principalmente agregar negócio e valor. Além de codar, sou apaixonado por Valorant e League of Legends. Gosto de ajudar as pessoas, compartilhar o que sei e, principalmente, aprender com os todos. :)</p>
+<p align="left">I'm 21 years old and I've always been passionate about development and data. Ever since I was a child, when my father showed me a robot he had created in 2006, I started to get interested in how technology can transform the world. What motivates me most is seeing how it can help and even save lives. Today, I study Information Technology at Univesp and I love the idea of making sense of data to try to pinpoint possible causes and future problems and, above all, to add business and value. As well as coding, I'm passionate about Valorant and League of Legends. I like helping people, sharing what I know and, above all, learning from everyone.</p>
 
 <h2 align="left">Stats</h2>
 
@@ -44,6 +44,14 @@
   </div>
 
 <div style="display: inline_block">
+  <h2>Certifications</h2>
+  <img align="center" alt="-AI900" height="40" width="50" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
+  <img align="center" alt="-AZ900" height="40" width="50" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
+  <img align="center" alt="-Databricks - Lakehouse" height="40" width="50" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112693359" />
+  <img align="center" alt="-Databricks - Lakehouse" height="40" width="50" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112784198" />
+</div>
+
+<div style="display: inline_block">
   <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
   <a href="https://www.youtube.com/@p4blinz" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" target="_blank"></a>
@@ -51,7 +59,7 @@
   <a href="https://www.instagram.com/pablinsouza_" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" target="_blank"></a>
   <a href="https://www.twitch.tv/p4blinz" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" target="_blank"></a>
 
-<h2 align="left">Profile views</h2>
+<h2 align="left">Profile Views</h2>
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/pablohenrr/count.svg?"  />
