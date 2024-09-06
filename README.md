@@ -2,6 +2,8 @@
 
 <h2 align="left">About Me</h2>
 
+<p align="left">Olá! Eu sou um desenvolvedor e engenheiro de dados apaixonado por transformar dados em informações valiosas. Adoro resolver problemas complexos e criar soluções eficientes com código bem estruturado. E sim, café é o combustível oficial do meu dia a dia! :)</p>
+
 <h2 align="left">Stats</h2>
 
 <div align="left">
