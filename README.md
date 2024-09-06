@@ -44,7 +44,6 @@
     <img align="center" alt="Apache AirFlow logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
     <img align="center" alt="Apache Spark logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
     <img align="center" alt="Pandas logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img align="center" alt="Databricks logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazuredatabricks/microsoftazuredatabricks-plain.svg" />
   </div>
 
 <div style="display: inline_block">
