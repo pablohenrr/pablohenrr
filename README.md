@@ -41,6 +41,8 @@
     <img align="center" alt="Mongo DB logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="SQL Server logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img align="center" alt="Open CV logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+    <img align="center" alt="Apache AirFlow logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+    <img align="center" alt="Apache Spark logo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
   </div>
 
 <div style="display: inline_block">
@@ -49,11 +51,6 @@
   <img align="center" alt="-AZ900" height="70" width="70" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
   <img align="center" alt="-Databricks - GenAI" height="75" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112784198" />
   <img align="center" alt="-Databricks - Lakehouse" height="75" width="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112582749" />
-</div>
-
-<div style="display: inline_block">
-  <h2>Scientific Articles</h2>
-  <a href="https://www.dio.me/articles/engenharia-de-prompt-na-saude-em-2024-a-revolucao-tecnologica-que-esta-salvando-vidas" target="_blank"><img alt="-Engenharia de Prompt na Saúde em 2024" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" target="_blank"></a>
 </div>
 
 <div style="display: inline_block">
