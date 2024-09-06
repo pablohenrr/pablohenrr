@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">Olá pessoal! Tenho 21 anos e sempre fui apaixonado por desenvolvimento e dados. Desde criança, quando meu pai me mostrou um robô que ele criou em 2006, comecei a me interessar por como a tecnologia pode transformar o mundo. O que mais me motiva é ver como ela pode ajudar e até salvar vidas. Hoje, estudo Tecnologia da Informação na Univesp e adoro a ideia de dar sentido a dados para buscar apontar possíveis causas e problemas futuros e principalmente agregar negócio e valor. Além de codar, sou apaixonado por Valorant e League of Legends. Gosto de ajudar as pessoas, compartilhar o que sei e, principalmente, aprender com os outros. :)</p>
+<p align="left">Olá pessoal! Tenho 21 anos e sempre fui apaixonado por desenvolvimento e dados. Desde criança, quando meu pai me mostrou um robô que ele criou em 2006, comecei a me interessar por como a tecnologia pode transformar o mundo. O que mais me motiva é ver como ela pode ajudar e até salvar vidas. Hoje, estudo Tecnologia da Informação na Univesp e adoro a ideia de dar sentido a dados para buscar apontar possíveis causas e problemas futuros e principalmente agregar negócio e valor. Além de codar, sou apaixonado por Valorant e League of Legends. Gosto de ajudar as pessoas, compartilhar o que sei e, principalmente, aprender com os todos. :)</p>
 
 <h2 align="left">Stats</h2>
 
