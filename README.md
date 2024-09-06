@@ -35,11 +35,11 @@
 <div style="display: inline_block">
   <h2>Social Media</h2>
   <a href="https://www.linkedin.com/in/pablo-henrique-de-souza-a48125239/" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a>
+  <a href="https://www.youtube.com/@p4blinz" target="_blank"><img alt="-Perfil Linkedin" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" target="_blank"></a>
 
 <h2 align="left">Social Media</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
