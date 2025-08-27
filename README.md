@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">I'm 21 years old and I've always been passionate about development and data. Ever since I was a child, when my father showed me a robot he had created in 2006, I started to get interested in how technology can transform the world. What motivates me most is seeing how it can help and even save lives. Today, I study Information Technology at Univesp and I love the idea of making sense of data to try to pinpoint possible causes and future problems and, above all, to add business and value. As well as coding, I'm passionate about Valorant and League of Legends. I like helping people, sharing what I know and, above all, learning from everyone.</p>
+<p align="left">I'm 22 years old and I've always been passionate about development and data. Ever since I was a child, when my father showed me a robot he had created in 2006, I started to get interested in how technology can transform the world. What motivates me most is seeing how it can help and even save lives. Today, I study Information Technology at Univesp and I love the idea of making sense of data to try to pinpoint possible causes and future problems and, above all, to add business and value. As well as coding, I'm passionate about Valorant and League of Legends. I like helping people, sharing what I know and, above all, learning from everyone.</p>
 
 <h2 align="left">Stats</h2>
 
